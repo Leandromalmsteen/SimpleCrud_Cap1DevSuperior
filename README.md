@@ -1,1 +1,0 @@
-# SimpleCrud_Cap1DevSuperior

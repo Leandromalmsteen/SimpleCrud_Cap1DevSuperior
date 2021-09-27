@@ -1,8 +1,8 @@
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1976-01-13T10:50:07Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Eliane Coutinho', 77845935618, 1500.00 ,TIMESTAMP WITH TIME ZONE '1978-07-13T20:30:07Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Ricardo', 19867435201, 5500.00 ,TIMESTAMP WITH TIME ZONE '1979-12-17T12:35:07Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('André Farias', 95673410284, 2700.00 ,TIMESTAMP WITH TIME ZONE '1954-08-01T20:02:07Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Ricardo Salles', 07477153986, 2780.00 ,TIMESTAMP WITH TIME ZONE '1982-01-24T20:50:07Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leandro Nunes', 03569785124, 3500.00 ,TIMESTAMP WITH TIME ZONE '1076-01-13T20:50:07.12345Z', 2);
